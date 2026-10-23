@@ -1,0 +1,17 @@
+# Injector Remote Administration Tool - Requirements
+# ==================================================
+# This tool uses only Python standard library modules
+# No additional packages are required!
+
+# For development/testing purposes only:
+# pytest==7.0.0
+# requests==2.28.0
+
+# For production deployment:
+# No additional requirements - uses standard library only
+
+# Note: This file is provided for reference only.
+# The injector_server.py uses only modules from Python's standard library:
+# - os, sys, json, base64, socket, threading, time, shutil
+# - datetime, platform, subprocess, hashlib
+# - http.server, socketserver, urllib.parse, cgi
