@@ -1,6 +1,5 @@
 # Injector Remote Administration Tool
-
-## 🚨 IMPORTANT LEGAL NOTICE
+https://t.me/InjectorAss
 
 **This tool is for AUTHORIZED USE ONLY on systems you own or have explicit permission to manage.**
 
@@ -621,4 +620,4 @@ By using this software, you agree to:
 
 ---
 
-*Last updated: December 2024*
+*Last updated: 10/2026*
